@@ -1,0 +1,56 @@
+{
+    "generatedAt": "2026-09-28T09:28:29.933Z",
+    "source": "https://hysenlabs.com/en/weekly",
+    "completeWeeks": 9,
+    "firstWeek": "2026-07-27",
+    "lastWeek": "2026-09-21",
+    "excludedWeeks": [
+          {
+                  "week": "2026-07-20",
+                  "items": 7
+          }
+    ],
+    "slots": 90,
+    "distinctProjects": 47,
+    "appearedOnce": 30,
+    "appearedOncePercent": 64,
+    "meanCarriedOver": 4.9,
+    "carriedOverRange": [
+          2,
+          6
+    ],
+    "overlaps": [
+          {
+                  "week": "2026-08-03",
+                  "carried_over": 6
+          },
+          {
+                  "week": "2026-08-10",
+                  "carried_over": 5
+          },
+          {
+                  "week": "2026-08-17",
+                  "carried_over": 5
+          },
+          {
+                  "week": "2026-08-24",
+                  "carried_over": 5
+          },
+          {
+                  "week": "2026-08-31",
+                  "carried_over": 6
+          },
+          {
+                  "week": "2026-09-07",
+                  "carried_over": 6
+          },
+          {
+                  "week": "2026-09-14",
+                  "carried_over": 2
+          },
+          {
+                  "week": "2026-09-21",
+                  "carried_over": 4
+          }
+    ]
+}
